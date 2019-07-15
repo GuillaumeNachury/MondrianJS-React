@@ -37,5 +37,11 @@ function MyApp(){
 
 Please read [`MondrianJS API`](https://github.com/GuillaumeNachury/MondrianJS#api) doc for the list of params.
 
+### Links
+[MondrianJS-ReactAppExample](https://github.com/GuillaumeNachury/MondrianJS-ReactAppExample)
+
+### Important 
+Remember, the remote components / modules **must** use the `amd` format.
+
 
 
