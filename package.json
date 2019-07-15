@@ -1,0 +1,15 @@
+{
+  "name": "mondrianjs-react",
+  "version": "0.0.1",
+  "description": "A React wrapper you can use in your app in order to load remote component.",
+  "main": "index.js",
+  "repository": "git@github.com:GuillaumeNachury/MondrianJS-React.git",
+  "author": "Guillaume <guillaume.nachury@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mondrianjs": "^0.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  }
+}
